@@ -1,4 +1,4 @@
-#### Hi there, I'm Gabriel 👋
+# Hi there, I'm Gabriel 👋
 My name's Gabriel Bivol, and I'm a full stack developer located in Croatia.
 
 <!--
