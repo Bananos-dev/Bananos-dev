@@ -1,4 +1,5 @@
-### Hi there 👋
+#### Hi there, I'm Gabriel 👋
+My name's Gabriel Bivol, and I'm a full stack developer located in Croatia.
 
 <!--
 **Bananos-dev/Bananos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
