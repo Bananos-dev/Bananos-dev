@@ -1,7 +1,7 @@
 # Hi there, I'm Gabriel 👋
 I'm Gabriel, a full-stack developer from Croatia.
 ## 👨‍💻 About me
-I wrote my first piece of code in second grade, and won my first award by the fourth. In 2016, I placed first in the Croatian Makers contest. And while I'm not coding robots anymore, I still enjoy coding to this day. I'm proficient in HTML, CSS and JavaScript, and I am currently learning C++.
+I wrote my first piece of code in second grade, and won my first award by the fourth. In 2016, I placed first in the Croatian Makers contest. And while I'm not coding robots anymore, I still enjoy coding to this day. I'm proficient in HTML, CSS and JavaScript, and I am currently learning Dart.
 
 ## 🛠️ Languages and tools
 <div>
