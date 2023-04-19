@@ -11,6 +11,5 @@ I wrote my first piece of code in second grade, and won my first award by the fo
   <img src="https://cdn.discordapp.com/attachments/868810640913989657/951251092593864774/nodejs.png" title="NodeJS" height="40" width="40"> </img>
   <img src="https://cdn.discordapp.com/attachments/868810640913989657/951251892812521502/26492485-removebg-preview.png" title="Discord.js" height="40" width="40"> </img>
   <img src="https://cdn.discordapp.com/attachments/868810640913989657/951249119685513216/mongodb.png" title="MongoDB" height="40" width="40"> </img>
-  <img src="https://cdn.discordapp.com/attachments/868810640913989657/951249282743300156/logo_firebase_icon.png" title="Firebase" height="40" width="40"> </img>
   <img src="https://cdn.discordapp.com/attachments/868810640913989657/951249435193639033/gitlogo.png" title="Git" height="40" width="40"> </img>
 </div>
